@@ -27,4 +27,4 @@ A full-stack PHP + MySQL web application for managing pet care services, booking
 6. Visit localhost/project-folder
 
 ~~Author
-Vaishnavi – CSE Student | Java + DSA + AI Track
+Leena – CSE Student | Java + DSA + AI Track
